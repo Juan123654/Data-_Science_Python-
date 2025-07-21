@@ -10,3 +10,4 @@ Enviar una recomendación:
 Después del análisis, escriba un texto explicando a qué tienda debería vender el 
 Sr. João y por qué, basándose en los datos presentados.
 '''
+
